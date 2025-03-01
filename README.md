@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Nathan
+Matricula: 1593351
 
-## Tela de inspeção com navegador
+## Tela de inspeção com navegador ![image-1](https://github.com/user-attachments/assets/f86c597a-ae7d-4c6b-9232-edbfb1415e51)
 
 
-## Tela de projeto no Replit
+
+## Tela de projeto no Replit ![image](https://github.com/user-attachments/assets/0dd4bbf2-7562-4a9d-8ceb-5b3494683bc7)
+
 
